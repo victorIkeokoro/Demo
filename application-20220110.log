@@ -1,0 +1,3 @@
+2022-01-10 14:19:53.988 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-10 14:19:54.091 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-10 14:19:58.734 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - Browser closed

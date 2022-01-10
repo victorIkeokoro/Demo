@@ -1,0 +1,89 @@
+2022-01-07 06:30:39.386 [main] DEBUG ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:30:39.392 [main] INFO  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:30:39.392 [main] WARN  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:30:39.392 [main] ERROR ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:30:39.393 [main] FATAL ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:35:40.707 [main] INFO  ProjectRepo.Demo1.Log4jTest - URL Loaded
+2022-01-07 06:35:44.241 [main] INFO  ProjectRepo.Demo1.Log4jTest - popup was clicked
+2022-01-07 06:35:48.093 [main] INFO  ProjectRepo.Demo1.Log4jTest - Browser closed
+2022-01-07 06:35:41.205 [main] INFO  ProjectRepo.Demo1.Log4jTest - URL Loaded
+2022-01-07 06:35:47.234 [main] INFO  ProjectRepo.Demo1.Log4jTest - popup was clicked
+2022-01-07 06:35:50.941 [main] INFO  ProjectRepo.Demo1.Log4jTest - Browser closed
+2022-01-07 06:43:09.235 [main] INFO  ProjectRepo.Demo1.Log4jTest - URL Loaded
+2022-01-07 06:43:24.394 [main] DEBUG ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:43:24.394 [main] INFO  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:43:24.394 [main] WARN  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:43:24.395 [main] ERROR ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:43:24.396 [main] FATAL ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:43:24.753 [main] INFO  ProjectRepo.Demo1.Log4jTest - popup was clicked
+2022-01-07 06:43:33.570 [main] INFO  ProjectRepo.Demo1.Log4jTest - Browser closed
+2022-01-07 06:48:00.466 [main] INFO  ProjectRepo.Demo1.Log4jTest - URL Loaded
+2022-01-07 06:48:22.968 [main] DEBUG ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:48:22.969 [main] INFO  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:48:22.970 [main] WARN  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:48:22.970 [main] ERROR ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:48:22.970 [main] FATAL ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:48:23.229 [main] INFO  ProjectRepo.Demo1.Log4jTest - popup was clicked
+2022-01-07 06:48:30.672 [main] INFO  ProjectRepo.Demo1.Log4jTest - Browser closed
+2022-01-07 06:50:20.365 [main] INFO  ProjectRepo.Demo1.Log4jTest - URL Loaded
+2022-01-07 06:50:36.762 [main] DEBUG ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:50:36.763 [main] INFO  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:50:36.763 [main] WARN  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:50:36.764 [main] ERROR ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:50:36.764 [main] FATAL ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 06:50:36.976 [main] INFO  ProjectRepo.Demo1.Log4jTest - popup was clicked
+2022-01-07 06:50:44.219 [main] INFO  ProjectRepo.Demo1.Log4jTest - Browser closed
+2022-01-07 07:19:28.918 [main] INFO  ProjectRepo.Demo1.Log4jTest - URL Loaded
+2022-01-07 07:19:46.191 [main] DEBUG ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:19:46.192 [main] INFO  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:19:46.192 [main] WARN  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:19:46.193 [main] ERROR ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:19:46.194 [main] FATAL ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:19:46.420 [main] INFO  ProjectRepo.Demo1.Log4jTest - popup was clicked
+2022-01-07 07:19:54.667 [main] INFO  ProjectRepo.Demo1.Log4jTest - Browser closed
+2022-01-07 07:23:57.224 [main] INFO  ProjectRepo.Demo1.Log4jTest - URL Loaded
+2022-01-07 07:24:09.560 [main] DEBUG ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:24:09.561 [main] INFO  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:24:09.561 [main] WARN  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:24:09.562 [main] ERROR ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:24:09.562 [main] FATAL ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:24:09.779 [main] INFO  ProjectRepo.Demo1.Log4jTest - popup was clicked
+2022-01-07 07:24:19.281 [main] INFO  ProjectRepo.Demo1.Log4jTest - Browser closed
+2022-01-07 07:27:38.304 [main] INFO  ProjectRepo.Demo1.Log4jTest - URL Loaded
+2022-01-07 07:27:49.851 [main] DEBUG ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:27:49.851 [main] INFO  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:27:49.852 [main] WARN  ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:27:49.852 [main] ERROR ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:27:49.852 [main] FATAL ProjectRepo.Demo1.Log4jTest - We've just greeted the user!
+2022-01-07 07:27:50.027 [main] INFO  ProjectRepo.Demo1.Log4jTest - popup was clicked
+2022-01-07 07:28:01.458 [main] INFO  ProjectRepo.Demo1.Log4jTest - Browser closed
+2022-01-07 07:30:22.211 [main] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 07:30:38.329 [main] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 07:30:48.746 [main] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 07:40:06.298 [main] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 07:40:09.341 [main] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 07:41:22.685 [main] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 07:43:57.067 [main] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 07:44:00.728 [main] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 07:44:03.412 [main] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 07:46:42.738 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 07:46:46.188 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 07:46:52.021 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 18:54:55.478 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 18:55:01.999 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 18:55:08.951 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 18:57:39.677 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 18:57:39.860 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 18:57:44.416 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 19:09:06.243 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 19:09:06.417 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 19:09:12.975 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 19:10:10.561 [main] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 19:10:11.124 [main] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 19:10:22.617 [main] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 19:13:53.766 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 19:13:53.993 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 19:13:58.510 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - Browser closed
+2022-01-07 19:17:38.621 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - URL Loaded
+2022-01-07 19:17:38.800 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - popup was clicked
+2022-01-07 19:17:46.329 [TestNG-tests-1] INFO  ProjectRepo.Demo1.LoginTest - Browser closed

@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 2, Time elapsed: 3.214 s <<< FAILURE! - in TestSuite
+intialize(ProjectRepo.Demo1.LoginTest)  Time elapsed: 2.419 s  <<< FAILURE!
+java.lang.NullPointerException
+	at ProjectRepo.Demo1.LoginTest.intialize(LoginTest.java:19)
+
+Home1(ProjectRepo.Demo1.HomePage)  Time elapsed: 0.021 s  <<< FAILURE!
+java.lang.NullPointerException
+	at ProjectRepo.Demo1.HomePage.Home1(HomePage.java:18)
+
+Home1(ProjectRepo.Demo1.HomePage)  Time elapsed: 0.059 s  <<< FAILURE!
+java.lang.NullPointerException
+
